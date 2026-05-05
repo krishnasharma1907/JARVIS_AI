@@ -63,7 +63,7 @@ Jarvis is built on a robust Python foundation to allow for maximum flexibility a
 The easiest way to get started is by using the standalone Windows installer. You do not need Python installed on your system for this method.
 
 1. Go to the [Releases page](../../releases/latest) of this repository.
-2. Download the latest `Jarvis-Setup.exe` file.
+2. Download the latest `Jarvis.AI.Setup.1.0.0.exe` file.
 3. Run the installer and follow the on-screen instructions.
 4. Launch Jarvis from your Start menu.
 5. On the first launch, go to Settings and input your Google API key.
