@@ -66,23 +66,11 @@ The easiest way to get started is by using the standalone Windows installer. You
 2. Download the latest `Jarvis-Setup.exe` file.
 3. Run the installer and follow the on-screen instructions.
 4. Launch Jarvis from your Start menu.
-5. On the first launch, go to Settings and input your Gemma API key.
+5. On the first launch, go to Settings and input your Google API key.
+6. For API key visit to [Google AI Studio](https://aistudio.google.com/api-keys).
+7. Create new API and Paste to Jarvis AI App.
 
-### Option 2: Build from Source (For Developers)
 
-If you want to modify the code or run it in a custom environment, you can build Jarvis from source.
-
-**Prerequisites:**
-*   Python 3.10 or higher
-*   Git
-*   A valid Gemma API Key
-
-**Step-by-Step Guide:**
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yourusername/jarvis-ai.git](https://github.com/yourusername/jarvis-ai.git)
-   cd jarvis-ai
 ---
 
 ## 💡 How Auto-Routing Works
